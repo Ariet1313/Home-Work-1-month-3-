@@ -1,0 +1,47 @@
+.container{
+    width: 500px;
+    height: 300px;
+   position: relative;
+   left: 600px;
+   top: 300px;
+   border: 5px solid;
+   border-radius: 10px;
+   
+   background-color: rgb(246, 242, 178);
+
+}
+.first{
+   position: relative;
+   left: 80px;
+   top: 5px;
+   padding: 9px;
+   margin: 5px;
+   
+}
+.second{
+    position: relative;
+    left: 90px;
+    top: 5px;
+    padding: 9px;
+    margin: 5px;
+ }
+ .thirt{
+    position: relative;
+    left: 100px;
+    top: 5px;
+    padding: 9px;
+    margin: 5px;
+ }
+ .result{
+    position: relative;
+    left: -190px;
+    top: 60px;
+ }
+ h1{
+   text-align: center;
+ }
+ textContent{
+   color: red;
+ }
+  
+
